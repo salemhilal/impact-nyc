@@ -99,7 +99,7 @@ textarea {
    ========================================================================== */
 
 .bg-gif {
-  background-image: url("/img/impact-bg.gif");
+  background-image: url("../img/impact-bg.gif");
   background-repeat: repeat;
 }
 
